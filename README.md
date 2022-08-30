@@ -9,10 +9,10 @@ Hello Horiseon family! I updated some of the source code of the web page to help
 Here we see some before and after pictures of the CSS to help give you an idea of what was done and how it is streamlined now for easy editing
 
 Before:
-!alttext[assets\images\Before.PNG]
+![Before](assets\images\Before.PNG)
 
 After:
-!alttext[assets\images\After.PNG]
+![After](assets\images\After.PNG)
 
 As you can see, I also added some notes to help break down what else section of CSS is controlling 
 
